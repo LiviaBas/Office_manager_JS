@@ -1,0 +1,12 @@
+body * {
+  color: white;
+}
+
+.meeting-room-container {
+  background: black;
+  height: 400px;
+}
+
+button {
+  background: black;
+}
